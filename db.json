@@ -1,0 +1,117 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "clark kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": 4,
+      "name": "SaiyanMan",
+      "alterEgo": "Goku"
+    },
+    {
+      "name": "series",
+      "alterEgo": "series chi",
+      "id": 5
+    },
+    {
+      "name": "Shazam",
+      "alterEgo": "Billy Batson",
+      "id": 6
+    },
+    {
+      "name": "Catwoman",
+      "alterEgo": "Selina Kyle",
+      "id": 7
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "Arthur Curry",
+      "id": 8
+    },
+    {
+      "name": "try",
+      "alterEgo": "try 2",
+      "id": 9
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Lith Veheren"
+    },
+    {
+      "id": 3,
+      "name": "Yun Che"
+    },
+    {
+      "id": 4,
+      "name": "Kururin Earth"
+    }
+  ],
+  "users": [
+    {
+      "id": "Series@example.com",
+      "designationId": "React Developer"
+    }
+  ],
+  "designation": [
+    {
+      "id": "React Developer",
+      "skills": [
+        "Frontend",
+        "Backend",
+        "API"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "color": "yellow"
+    },
+    {
+      "id": 3,
+      "color": "orange"
+    },
+    {
+      "id": 4,
+      "color": "indica"
+    },
+    {
+      "id": 5,
+      "color": "violet"
+    },
+    {
+      "id": 6,
+      "color": "green"
+    },
+    {
+      "id": 7,
+      "color": "blue"
+    },
+    {
+      "id": 8,
+      "color": "cyan"
+    }
+  ]
+}
